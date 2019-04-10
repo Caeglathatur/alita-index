@@ -5,6 +5,19 @@ This is a curated list of material relating to Yukito Kishiro's manga, *Gunnm*/*
 
 The list itself is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt).
 
+**Table of Contents**
+
+- [Articles](#articles)
+- [Books](#books)
+  - [[Official] Movie-Related](#official-movie-related)
+  - [[Official] Yukito Kishiro's original manga](#official-yukito-kishiros-original-manga)
+- [Communities](#communities)
+- [Fan Fiction](#fan-fiction)
+- [Music](#music)
+- [Podcasts](#podcasts)
+- [Video](#video)
+  - [YouTube Channels](#youtube-channels)
+
 Articles
 --------
 
@@ -18,11 +31,11 @@ Books
 - Alita: Battle Angel - The Art and Making of the Movie. ISBN: 9781785658082.
 - Alita: Battle Angel - Dr Ido's Journal. ISBN: 9781785658099.
 - Alita: Battle Angel - Iron City. The official movie prequel.
-    - Hardcover ISBN: 9781785658358
-    - Paperback ISBN: 9781785658372
+  - Hardcover ISBN: 9781785658358
+  - Paperback ISBN: 9781785658372
 - Alita: Battle Angel - The Official Movie Novelization
-    - Hardcover ISBN: 9781785658389
-    - Paperback ISBN: 9781785658402
+  - Hardcover ISBN: 9781785658389
+  - Paperback ISBN: 9781785658402
 
 ### [Official] Yukito Kishiro's original manga
 
@@ -48,8 +61,8 @@ Music
 -----
 
 - [Official] Alita: Battle Angel (Original Motion Picture Soundtrack)
-    - CD EAN: 3299039814529
-    - Vinyl EAN: 3299039816622
+  - CD EAN: 3299039814529
+  - Vinyl EAN: 3299039816622
 - [Official] Alita: Battle Angel (Original Motion Picture Soundtrack) - Japanese Edition. Includes two additional tracks.
 
 Podcasts
