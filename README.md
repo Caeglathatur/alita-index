@@ -10,7 +10,7 @@ The list itself is licensed under [CC0 1.0](https://creativecommons.org/publicdo
 - [Articles](#articles)
 - [Books](#books)
   - [[Official] Movie-Related](#official-movie-related)
-  - [[Official] Yukito Kishiro's original manga](#official-yukito-kishiros-original-manga)
+  - [[Official] Yukito Kishiro's Original Manga](#official-yukito-kishiros-original-manga)
 - [Communities](#communities)
 - [Fan Fiction](#fan-fiction)
 - [Music](#music)
@@ -37,7 +37,7 @@ Books
   - Hardcover ISBN: 9781785658389
   - Paperback ISBN: 9781785658402
 
-### [Official] Yukito Kishiro's original manga
+### [Official] Yukito Kishiro's Original Manga
 
 - [Comprehensive list on Wikipedia](https://en.wikipedia.org/wiki/List_of_Battle_Angel_Alita_chapters)
 - Battle Angel Alita
