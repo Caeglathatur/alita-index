@@ -1,9 +1,14 @@
 Alita Index
 ===========
 
-This is a curated list of links to content relating to the manga *Gunnm*/*Battle Angel Alita* by Yukito Kishiro as well as the movie *Alita: Battle Angel* by James Cameron and Robert Rodriguez.
+This is a curated list of material relating to Yukito Kishiro's manga, *Gunnm*/*Battle Angel Alita*, as well as James Cameron's and Robert Rodríguez's movie *Alita: Battle Angel*.
 
-The list itself is licensed under CC0 1.0.
+The list itself is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt).
+
+Articles
+--------
+
+- *Iron Maiden* by Joe Fordham in [Cinefex issue 163](https://www.cinefex.com/backissues/issue163.htm) (Feb 2019). 21 pages all about the visual effects of *Alita: Battle Angel*. Targeted to VFX professionals.
 
 Communities
 -----------
@@ -22,8 +27,9 @@ Podcasts
 
 - [ABA Reddit Show](https://abaredditshow.podbean.com/)
 
-YouTube Channels
-----------------
+Video
+-----
 
-- [Doc Ido](https://www.youtube.com/channel/UCqeFRqda27r7IZfUsxkg1hw)
-- [GenX Strikes Back](https://www.youtube.com/channel/UCiE0u9MQFw1lFn7PWqgA9DQ)
+- [Doc Ido](https://www.youtube.com/channel/UCqeFRqda27r7IZfUsxkg1hw). YouTube channel.
+- [GenX Strikes Back](https://www.youtube.com/channel/UCiE0u9MQFw1lFn7PWqgA9DQ). YouTube channel.
+- [Junkie XL's Alita video series](https://www.youtube.com/playlist?list=PLvuwMx8BoqdUbGDPgm2aqtbBpjug11iFc). The composer himself talks about the film score of *Alita: Battle Angel*.
