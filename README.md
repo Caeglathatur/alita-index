@@ -10,6 +10,18 @@ Articles
 
 - *Iron Maiden* by Joe Fordham in [Cinefex issue 163](https://www.cinefex.com/backissues/issue163.htm) (Feb 2019). 21 pages all about the visual effects of *Alita: Battle Angel*. Targeted to VFX professionals.
 
+Books
+-----
+
+- [Official] Alita: Battle Angel - The Art and Making of the Movie. ISBN: 9781785658082.
+- [Official] Alita: Battle Angel - Dr Ido's Journal. ISBN: 9781785658099.
+- [Official] Alita: Battle Angel - Iron City. The official movie prequel.
+    - Hardcover ISBN: 9781785658358
+    - Paperback ISBN: 9781785658372
+- [Official] Alita: Battle Angel - The Official Movie Novelization
+    - Hardcover ISBN: 9781785658389
+    - Paperback ISBN: 9781785658402
+
 Communities
 -----------
 
@@ -21,6 +33,14 @@ Fan Fiction
 -----------
 
 - [By Writefriend99](https://pastebin.com/u/writefriend99)
+
+Music
+-----
+
+- [Official] Alita: Battle Angel (Original Motion Picture Soundtrack)
+    - CD EAN: 3299039814529
+    - Vinyl EAN: 3299039816622
+- [Official] Alita: Battle Angel (Original Motion Picture Soundtrack) - Japanese Edition. Includes two additional tracks.
 
 Podcasts
 --------
