@@ -39,7 +39,8 @@ Books
 
 ### [Official] Yukito Kishiro's Original Manga
 
-- [Comprehensive list on Wikipedia](https://en.wikipedia.org/wiki/List_of_Battle_Angel_Alita_chapters)
+[Comprehensive list on Wikipedia](https://en.wikipedia.org/wiki/List_of_Battle_Angel_Alita_chapters)
+
 - Battle Angel Alita
 - Battle Angel Alita: Holy Night & Other Stories
 - Battle Angel Alita: Last Order
@@ -61,9 +62,13 @@ Music
 -----
 
 - [Official] Alita: Battle Angel (Original Motion Picture Soundtrack)
-  - CD EAN: 3299039814529
-  - Vinyl EAN: 3299039816622
-- [Official] Alita: Battle Angel (Original Motion Picture Soundtrack) - Japanese Edition. Includes two additional tracks.
+  - Standard edition
+    - CD EAN: 3299039814529
+    - Vinyl EAN: 3299039816622
+  - Japanese edition. Includes two additional tracks.
+- [Official] Battle Angel (OVA) soundtracks. [Wikipedia article](https://en.wikipedia.org/wiki/Battle_Angel_(OVA)#Soundtracks).
+    - Gunnm: Image Album
+    - Gunnm: Another Story
 
 Podcasts
 --------
@@ -73,6 +78,7 @@ Podcasts
 Video
 -----
 
+- [Official] Battle Angel (original video animation, 1993). [Wikipedia article](https://en.wikipedia.org/wiki/Battle_Angel_(OVA)).
 - [Dynamite Neko's *Battle Angel Alita* Let's Read](https://www.youtube.com/playlist?list=PLPWUQIdNDVU5NN1Pv85CtcgYTybDSZxZB)
 - [Junkie XL's *Alita: Battle Angel* video series](https://www.youtube.com/playlist?list=PLvuwMx8BoqdUbGDPgm2aqtbBpjug11iFc). The composer himself talks about the film score of *Alita: Battle Angel*.
 
