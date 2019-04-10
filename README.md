@@ -13,14 +13,24 @@ Articles
 Books
 -----
 
-- [Official] Alita: Battle Angel - The Art and Making of the Movie. ISBN: 9781785658082.
-- [Official] Alita: Battle Angel - Dr Ido's Journal. ISBN: 9781785658099.
-- [Official] Alita: Battle Angel - Iron City. The official movie prequel.
+### [Official] Movie-Related
+
+- Alita: Battle Angel - The Art and Making of the Movie. ISBN: 9781785658082.
+- Alita: Battle Angel - Dr Ido's Journal. ISBN: 9781785658099.
+- Alita: Battle Angel - Iron City. The official movie prequel.
     - Hardcover ISBN: 9781785658358
     - Paperback ISBN: 9781785658372
-- [Official] Alita: Battle Angel - The Official Movie Novelization
+- Alita: Battle Angel - The Official Movie Novelization
     - Hardcover ISBN: 9781785658389
     - Paperback ISBN: 9781785658402
+
+### [Official] Yukito Kishiro's original manga
+
+- [Comprehensive list on Wikipedia](https://en.wikipedia.org/wiki/List_of_Battle_Angel_Alita_chapters)
+- Battle Angel Alita
+- Battle Angel Alita: Holy Night & Other Stories
+- Battle Angel Alita: Last Order
+- Battle Angel Alita: Mars Chronicle
 
 Communities
 -----------
@@ -50,6 +60,13 @@ Podcasts
 Video
 -----
 
-- [Doc Ido](https://www.youtube.com/channel/UCqeFRqda27r7IZfUsxkg1hw). YouTube channel.
-- [GenX Strikes Back](https://www.youtube.com/channel/UCiE0u9MQFw1lFn7PWqgA9DQ). YouTube channel.
-- [Junkie XL's Alita video series](https://www.youtube.com/playlist?list=PLvuwMx8BoqdUbGDPgm2aqtbBpjug11iFc). The composer himself talks about the film score of *Alita: Battle Angel*.
+- [Dynamite Neko's *Battle Angel Alita* Let's Read](https://www.youtube.com/playlist?list=PLPWUQIdNDVU5NN1Pv85CtcgYTybDSZxZB)
+- [Junkie XL's *Alita: Battle Angel* video series](https://www.youtube.com/playlist?list=PLvuwMx8BoqdUbGDPgm2aqtbBpjug11iFc). The composer himself talks about the film score of *Alita: Battle Angel*.
+
+### YouTube Channels
+
+- [Alita Battle Angel](https://www.youtube.com/channel/UChZ2hQPWPQAlDTk-67z2Pww) (fan-made)
+- [Doc Ido](https://www.youtube.com/channel/UCqeFRqda27r7IZfUsxkg1hw)
+- [GenX Strikes Back](https://www.youtube.com/channel/UCiE0u9MQFw1lFn7PWqgA9DQ)
+- [JAYA nice day](https://www.youtube.com/channel/UCuya22CZB8CVdM_osO2i9zw)
+- [StarOfElyon](https://www.youtube.com/channel/UC1jFLGc_OVIcAOaMKOXYxVw)
