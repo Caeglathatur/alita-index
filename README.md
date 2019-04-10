@@ -15,7 +15,7 @@ The list itself is licensed under [CC0 1.0](https://creativecommons.org/publicdo
 - [Fan Fiction](#fan-fiction)
 - [Music](#music)
 - [Podcasts](#podcasts)
-- [Video](#video)
+- [Videos](#videos)
   - [YouTube Channels](#youtube-channels)
 
 Articles
@@ -75,9 +75,12 @@ Podcasts
 
 - [ABA Reddit Show](https://abaredditshow.podbean.com/)
 
-Video
+Videos
 -----
 
+- Alita- Battle Angel is More Important Than You Think. By Nick on Planet Ripple (a longtime *Battle Angel Alita* fan).
+  - [Part 1](https://www.youtube.com/watch?v=RJ6dBpT4JcE). Analysis of the manga and the character of Alita.
+  - [Part 2](https://www.youtube.com/watch?v=cCiefCg1z-w). Movie review.
 - [Official] Battle Angel (original video animation, 1993). [Wikipedia article](https://en.wikipedia.org/wiki/Battle_Angel_(OVA)).
 - [Dynamite Neko's *Battle Angel Alita* Let's Read](https://www.youtube.com/playlist?list=PLPWUQIdNDVU5NN1Pv85CtcgYTybDSZxZB)
 - [Junkie XL's *Alita: Battle Angel* video series](https://www.youtube.com/playlist?list=PLvuwMx8BoqdUbGDPgm2aqtbBpjug11iFc). The composer himself talks about the film score of *Alita: Battle Angel*.
