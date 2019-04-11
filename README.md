@@ -3,7 +3,7 @@ Alita Index
 
 This is a curated list of material relating to Yukito Kishiro's manga, *Gunnm*/*Battle Angel Alita*, as well as James Cameron's and Robert Rodríguez's movie *Alita: Battle Angel*.
 
-The list itself is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt).
+The list itself is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt). Suggestions are welcome on [GitHub](https://github.com/Caeglathatur/alita-index/issues) or [Reddit](https://old.reddit.com/r/Gunnm/comments/bbjyj4/alita_index_a_curated_list_of_material_relating/).
 
 **Table of Contents**
 
@@ -78,7 +78,7 @@ Podcasts
 Videos
 -----
 
-- Alita- Battle Angel is More Important Than You Think. By Nick on Planet Ripple (a longtime *Battle Angel Alita* fan).
+- Alita- Battle Angel is More Important Than You Think. By "Nick on Planet Ripple" (a longtime *Battle Angel Alita* fan).
   - [Part 1](https://www.youtube.com/watch?v=RJ6dBpT4JcE). Analysis of the manga and the character of Alita.
   - [Part 2](https://www.youtube.com/watch?v=cCiefCg1z-w). Movie review.
 - [Official] Battle Angel (original video animation, 1993). [Wikipedia article](https://en.wikipedia.org/wiki/Battle_Angel_(OVA)).
