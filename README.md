@@ -15,6 +15,7 @@ The list itself is licensed under [CC0 1.0](https://creativecommons.org/publicdo
 - [Fan Fiction](#fan-fiction)
 - [Music](#music)
 - [Podcasts](#podcasts)
+- [Social Media](#social-media)
 - [Videos](#videos)
   - [YouTube Channels](#youtube-channels)
 
@@ -75,8 +76,16 @@ Podcasts
 
 - [ABA Reddit Show](https://abaredditshow.podbean.com/)
 
+Social Media
+------------
+
+- [Official] Movie accounts
+  - [Facebook](https://www.facebook.com/AlitaMovie)
+  - [Instagram](https://www.instagram.com/AlitaMovie/)
+  - [Twitter](https://twitter.com/AlitaMovie)
+
 Videos
------
+------
 
 - Alita- Battle Angel is More Important Than You Think. By "Nick on Planet Ripple" (a longtime *Battle Angel Alita* fan).
   - [Part 1](https://www.youtube.com/watch?v=RJ6dBpT4JcE). Analysis of the manga and the character of Alita.
