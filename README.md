@@ -67,6 +67,7 @@ Music
     - CD EAN: 3299039814529
     - Vinyl EAN: 3299039816622
   - Japanese edition. Includes two additional tracks.
+- [Alita's Theme](https://youtu.be/HLfloz6NWwQ?t=419). Composed by Tom Holkenborg for the movie, but was not used in its purest form in it.
 - [Official] Battle Angel (OVA) soundtracks. [Wikipedia article](https://en.wikipedia.org/wiki/Battle_Angel_(OVA)#Soundtracks).
     - Gunnm: Image Album
     - Gunnm: Another Story
