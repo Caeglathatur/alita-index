@@ -88,12 +88,17 @@ Social Media
 Videos
 ------
 
+- [Alita: Battle Angel - Biblical Symbolism and Themes](https://www.youtube.com/watch?v=NNIWiCY2HmY) (24 min). By David Stewart.
 - Alita- Battle Angel is More Important Than You Think. By "Nick on Planet Ripple" (a longtime *Battle Angel Alita* fan).
-  - [Part 1](https://www.youtube.com/watch?v=RJ6dBpT4JcE). Analysis of the manga and the character of Alita.
-  - [Part 2](https://www.youtube.com/watch?v=cCiefCg1z-w). Movie review.
-- [Official] Battle Angel (original video animation, 1993). [Wikipedia article](https://en.wikipedia.org/wiki/Battle_Angel_(OVA)).
+  - [Part 1](https://www.youtube.com/watch?v=RJ6dBpT4JcE) (17 min). Analysis of the manga and the character of Alita.
+  - [Part 2](https://www.youtube.com/watch?v=cCiefCg1z-w) (24 min). Movie review.
+- [Official] Battle Angel (original video animation, 1993) (1h in total). [Wikipedia article](https://en.wikipedia.org/wiki/Battle_Angel_(OVA)).
 - [Dynamite Neko's *Battle Angel Alita* Let's Read](https://www.youtube.com/playlist?list=PLPWUQIdNDVU5NN1Pv85CtcgYTybDSZxZB)
-- [Junkie XL's *Alita: Battle Angel* video series](https://www.youtube.com/playlist?list=PLvuwMx8BoqdUbGDPgm2aqtbBpjug11iFc). The composer himself talks about the film score of *Alita: Battle Angel*.
+- [Junkie XL's *Alita: Battle Angel* video series](https://www.youtube.com/playlist?list=PLvuwMx8BoqdUbGDPgm2aqtbBpjug11iFc) (2h 49min in total). The composer himself (Tom Holkenborg) talks about the film score of *Alita: Battle Angel*.
+- PROTECC ALITA. By TheLast300.
+  - [Part 1](https://www.youtube.com/watch?v=RB8I7vSw1FI) (5 min)
+  - [Part 2: Why They HATE Alita](https://www.youtube.com/watch?v=8eFxsVqffCg) (10 min)
+  - Part 3 might exist at some point.
 
 ### YouTube Channels
 
