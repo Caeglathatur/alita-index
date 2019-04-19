@@ -95,7 +95,7 @@ Videos
 - [Official] Battle Angel (original video animation, 1993) (1h in total). [Wikipedia article](https://en.wikipedia.org/wiki/Battle_Angel_(OVA)).
 - [Dynamite Neko's *Battle Angel Alita* Let's Read](https://www.youtube.com/playlist?list=PLPWUQIdNDVU5NN1Pv85CtcgYTybDSZxZB)
 - [Junkie XL's *Alita: Battle Angel* video series](https://www.youtube.com/playlist?list=PLvuwMx8BoqdUbGDPgm2aqtbBpjug11iFc) (2h 49min in total). The composer himself (Tom Holkenborg) talks about the film score of *Alita: Battle Angel*.
-- [Legends Never Die](https://www.youtube.com/watch?v=G0yCiaxMcfo) (4 min). A music video with movie trailer clips that is actually pretty good.
+- [Legends Never Die](https://www.youtube.com/watch?v=G0yCiaxMcfo) (4 min). A music video with movie clips that is actually pretty good.
 - PROTECC ALITA. By TheLast300.
   - [Part 1](https://www.youtube.com/watch?v=RB8I7vSw1FI) (5 min)
   - [Part 2: Why They HATE Alita](https://www.youtube.com/watch?v=8eFxsVqffCg) (10 min)
