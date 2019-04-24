@@ -108,4 +108,5 @@ Videos
 - [Doc Ido](https://www.youtube.com/channel/UCqeFRqda27r7IZfUsxkg1hw)
 - [GenX Strikes Back](https://www.youtube.com/channel/UCiE0u9MQFw1lFn7PWqgA9DQ)
 - [JAYA nice day](https://www.youtube.com/channel/UCuya22CZB8CVdM_osO2i9zw)
+- [TheLast300](https://www.youtube.com/channel/UCRtAIk7o92YXDcbxgKk8rMQ)
 - [StarOfElyon](https://www.youtube.com/channel/UC1jFLGc_OVIcAOaMKOXYxVw)
