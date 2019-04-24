@@ -51,7 +51,7 @@ Books
 Communities
 -----------
 
-- [A nice and friendly Discord server](https://discord.gg/BNj2rUP). As of April 2019 very active with about 600 members from all around the world.
+- [Discord server *Gunnm/Battle Angel: Alita*](https://discord.gg/BNj2rUP). As of April 2019 very active with about 600 members from all around the world.
 - [Facebook group *Alita: Battle Angel*](https://www.facebook.com/groups/209407343095593/)
 - [Facebook group *Alita: Battle Angel's Army*](https://www.facebook.com/groups/396667764422707/)
 - [reddit.com/r/alitabattleangel](https://www.reddit.com/r/alitabattleangel/)
