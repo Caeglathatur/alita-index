@@ -8,6 +8,7 @@ The list itself is licensed under [CC0 1.0](https://creativecommons.org/publicdo
 **Table of Contents**
 
 - [Articles](#articles)
+  - [Movie Analysis](#movie-analysis)
   - [VFX](#vfx)
 - [Books](#books)
   - [[Official] Movie-Related](#official-movie-related)
@@ -22,6 +23,12 @@ The list itself is licensed under [CC0 1.0](https://creativecommons.org/publicdo
 
 Articles
 --------
+
+### Movie Analysis
+
+- Very long (~10k words) essays about the movie by [Dylan Devine](https://www.writingislikelife.com/)
+  - [*The Advent of Alita: Battle Angel, and the Culture War*](https://www.writingislikelife.com/2019/03/the-advent-of-alita-battle-angel-and.html)
+  - [*Alita, Avatar, Coraline and Why I Love James Cameron*](https://www.writingislikelife.com/2019/04/alita-avatar-coraline-and-why-i-love.html)
 
 ### VFX
 
