@@ -8,6 +8,7 @@ The list itself is licensed under [CC0 1.0](https://creativecommons.org/publicdo
 **Table of Contents**
 
 - [Articles](#articles)
+  - [VFX](#vfx)
 - [Books](#books)
   - [[Official] Movie-Related](#official-movie-related)
   - [[Official] Yukito Kishiro's Original Manga](#official-yukito-kishiros-original-manga)
@@ -22,8 +23,11 @@ The list itself is licensed under [CC0 1.0](https://creativecommons.org/publicdo
 Articles
 --------
 
+### VFX
+
 - [Alita: Battle Angel on Framestore's website](https://www.framestore.com/work/alita-battle-angel). Article about Framestore's visual effects work (such as the motorball stadium, motorball players, Zalem and cityscapes) for *Alita: Battle Angel*. Contains links to additional articles.
 - *Iron Maiden* by Joe Fordham in [Cinefex issue 163](https://www.cinefex.com/backissues/issue163.htm) (Feb 2019). 21 pages all about the visual effects of *Alita: Battle Angel*. Targeted to VFX professionals.
+- [*Weta Digital’s Remarkable Face Pipeline: Alita Battle Angel*](https://www.fxguide.com/featured/weta-digitals-remarkable-face-pipeline-alita-battle-angel/) by Mike Seymour (fxguide.com). Description of the technologies and techniques used to create and animate Alita's face.
 
 Books
 -----
