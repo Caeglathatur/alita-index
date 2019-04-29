@@ -26,7 +26,7 @@ Articles
 
 ### Movie Analysis
 
-- [Dylan Devine](https://www.writingislikelife.com/)'s essays (long, ~10k words) by about the movie
+- [Dylan Devine](https://www.writingislikelife.com/)'s essays (long, ~10k words) about the movie
   - [*The Advent of Alita: Battle Angel, and the Culture War*](https://www.writingislikelife.com/2019/03/the-advent-of-alita-battle-angel-and.html)
   - [*Alita, Avatar, Coraline and Why I Love James Cameron*](https://www.writingislikelife.com/2019/04/alita-avatar-coraline-and-why-i-love.html)
 
