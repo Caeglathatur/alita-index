@@ -92,7 +92,7 @@ Fan Fiction
 Miscellaneous
 -------------
 
-- [Vitaly Bulgarov](https://www.instagram.com/vitalybulgarov/)'s concept work for *Alita: Battle Angel*:
+- [Vitaly Bulgarov](https://www.instagram.com/vitalybulgarov/)'s concept art for *Alita: Battle Angel*:
   [1](https://www.instagram.com/p/BueyI6BB3lt/),
   [2](https://www.instagram.com/p/BupHU2tBzIz/),
   [3](https://www.instagram.com/p/Bu7DqUMhKXv/),
