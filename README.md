@@ -100,7 +100,6 @@ Miscellaneous
   [5](https://www.instagram.com/p/BvkQmZTBd7u/),
   [6](https://www.instagram.com/p/BwIcYckBNSz/)
 
-
 Music
 -----
 
