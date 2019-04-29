@@ -16,6 +16,7 @@ The list itself is licensed under [CC0 1.0](https://creativecommons.org/publicdo
 - [Communities](#communities)
 - [Fan Art](#fan-art)
 - [Fan Fiction](#fan-fiction)
+- [Miscellaneous](#miscellaneous)
 - [Music](#music)
 - [Podcasts](#podcasts)
 - [Social Media](#social-media)
@@ -73,7 +74,12 @@ Fan Art
 -------
 
 - [ArtStation search for "alita"](https://www.artstation.com/search?q=alita)
-- DeviantArt tags (nonexhaustive): [#alita](https://www.deviantart.com/tag/alita), [#alitabattleangel](https://www.deviantart.com/tag/alitabattleangel), [#battleangelalita](https://www.deviantart.com/tag/battleangelalita), [#gally](https://www.deviantart.com/tag/gally), [#gunnm](https://www.deviantart.com/tag/gunnm)
+- DeviantArt tags (nonexhaustive):
+  [#alita](https://www.deviantart.com/tag/alita),
+  [#alitabattleangel](https://www.deviantart.com/tag/alitabattleangel),
+  [#battleangelalita](https://www.deviantart.com/tag/battleangelalita),
+  [#gally](https://www.deviantart.com/tag/gally),
+  [#gunnm](https://www.deviantart.com/tag/gunnm)
 - Reddit searches for "fan art", all-time top voted
   - [r/alitabattleangel](https://www.reddit.com/r/alitabattleangel/search?q=fan+art&restrict_sr=on&sort=top&t=all)
   - [r/Gunnm](https://www.reddit.com/r/Gunnm/search?q=fan+art&restrict_sr=on&sort=top&t=all)
@@ -82,6 +88,18 @@ Fan Fiction
 -----------
 
 - [By Writefriend99](https://pastebin.com/u/writefriend99)
+
+Miscellaneous
+-------------
+
+- [Vitaly Bulgarov](https://www.instagram.com/vitalybulgarov/)'s concept work for *Alita: Battle Angel*:
+  [1](https://www.instagram.com/p/BueyI6BB3lt/),
+  [2](https://www.instagram.com/p/BupHU2tBzIz/),
+  [3](https://www.instagram.com/p/Bu7DqUMhKXv/),
+  [4](https://www.instagram.com/p/BvM8DoqlM3_/),
+  [5](https://www.instagram.com/p/BvkQmZTBd7u/),
+  [6](https://www.instagram.com/p/BwIcYckBNSz/)
+
 
 Music
 -----
