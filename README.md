@@ -14,6 +14,7 @@ The list itself is licensed under [CC0 1.0](https://creativecommons.org/publicdo
   - [[Official] Movie-Related](#official-movie-related)
   - [[Official] Yukito Kishiro's Original Manga](#official-yukito-kishiros-original-manga)
 - [Communities](#communities)
+- [Fan Art](#fan-art)
 - [Fan Fiction](#fan-fiction)
 - [Music](#music)
 - [Podcasts](#podcasts)
@@ -67,6 +68,14 @@ Communities
 - [Facebook group *Alita: Battle Angel's Army*](https://www.facebook.com/groups/396667764422707/)
 - [reddit.com/r/alitabattleangel](https://www.reddit.com/r/alitabattleangel/)
 - [reddit.com/r/Gunnm](https://www.reddit.com/r/Gunnm/)
+
+Fan Art
+-------
+
+- DeviantArt tags (nonexhaustive): [#alita](https://www.deviantart.com/tag/alita), [#alitabattleangel](https://www.deviantart.com/tag/alitabattleangel), [#battleangelalita](https://www.deviantart.com/tag/battleangelalita), [#gally](https://www.deviantart.com/tag/gally), [#gunnm](https://www.deviantart.com/tag/gunnm)
+- Reddit searches for "fan art", all-time top voted
+  - [r/alitabattleangel](https://www.reddit.com/r/alitabattleangel/search?q=fan+art&restrict_sr=on&sort=top&t=all)
+  - [r/Gunnm](https://www.reddit.com/r/Gunnm/search?q=fan+art&restrict_sr=on&sort=top&t=all)
 
 Fan Fiction
 -----------
