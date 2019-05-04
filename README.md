@@ -1,6 +1,12 @@
 Alita Index
 ===========
 
+**Alita Index now exists as a proper website:** https://www.alita-index.com/
+
+The content remains CC0 and available in Markdown format, as well through an API and RSS feed. Suggestions can still be submitted as issues to this GitHub repository.
+
+------------------------
+
 This is a curated list of material relating to Yukito Kishiro's manga, *Gunnm*/*Battle Angel Alita*, as well as James Cameron's and Robert Rodríguez's movie *Alita: Battle Angel*. Listed items are not necessarily endorsed.
 
 The list itself is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt). Suggestions are welcome on [GitHub](https://github.com/Caeglathatur/alita-index/issues) or [Reddit](https://old.reddit.com/r/Gunnm/comments/bbjyj4/alita_index_a_curated_list_of_material_relating/).
