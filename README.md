@@ -3,7 +3,7 @@ Alita Index
 
 **Alita Index now exists as a proper website:** [https://www.alita-index.com/](https://www.alita-index.com/)
 
-The content remains CC0 and available in Markdown format, as well through an API and RSS feed. Suggestions can still be submitted as issues to this GitHub repository.
+**The content remains CC0 and available in Markdown format, as well through an API and RSS feed. Suggestions can still be submitted as issues to this GitHub repository.**
 
 ------------------------
 
