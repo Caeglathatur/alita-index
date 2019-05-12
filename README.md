@@ -1,9 +1,14 @@
 Alita Index
 ===========
 
-**Alita Index now exists as a proper website:** [https://www.alita-index.com/](https://www.alita-index.com/)
+ATTENTION
+---------
 
-**The content remains CC0 and available in Markdown format, as well through an API and RSS feed. Suggestions can still be submitted as issues to this GitHub repository.**
+**Alita Index now exists as a proper website on [www.alita-index.com](https://www.alita-index.com/).**
+
+**The content remains CC0 and available in Markdown format, as well through an API and RSS feed. Suggestions can be submitted through a form on the website.**
+
+**The new [Alita Index source code](https://github.com/Caeglathatur/alita-index-2) is on GitHub.**
 
 ------------------------
 
